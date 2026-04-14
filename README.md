@@ -78,7 +78,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="0ad6c848941(2).png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/igoli2/igoli2/refs/heads/main/0ad6c848941%20(2).png)
+[<img src="sertificate.png" width="280px" hspace="10px" alt="Диплом»">]([https://raw.githubusercontent.com/igoli2/igoli2/refs/heads/main/0ad6c848941%20(2).png](https://raw.githubusercontent.com/igoli2/igoli2/refs/heads/main/0ad6c848941%20(2).png)
 <br>
 <br>
 
