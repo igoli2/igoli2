@@ -11,6 +11,10 @@
 
 🤝 Открыт к сотрудничеству и стремлюсь присоединиться к сильной команде высококвалифицированных специалистов для работы над инновационными проектами.
 
+Если в вашей компании есть подходящая вакансия, буду рад обсудить детали.
+
+mil73@mail.ru
+
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=igoli2)
